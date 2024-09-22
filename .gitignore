@@ -1,0 +1,72 @@
+# Ignore Visual Studio temporary files, build results, and
+# build logs.
+[vb]*.user
+[vb]*.suo
+[vb]*.userosscache
+[vb]*.sln.docstates
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider settings
+.idea/
+*.sln.iml
+
+# DotNet core settings
+*.pidb
+*.svd
+*.suo
+*.user
+*.userprefs
+*.csproj.user
+*.csproj.vspscc
+*.csproj.vssscc
+*.vs/
+.vscode/
+.idea/
+build/
+out/
+temp/
+backup/
+# Build directories
+bin/
+obj/
+
+# Log files
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Windows
+*.DS_Store
+*.env
+
+# JetBrains Rider project-specific files
+.idea/
