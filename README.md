@@ -1,5 +1,16 @@
 # Multikill Client (for Ultrakill 0.9.0)
 
+---
+
+# Why even make this when Jaket exists?
+- **Jaket does not Support dedicated 24/7 lobbies** since it uses the Steamworks API.
+- **Multikill aims to be as customizable as possible** meaning that the Server might be able to give the client instructions for custom Physics.
+- **Map Streaming** I want Multikill to be able to Stream maps from the Server / download them when joining a game, so you don't have to worry about not having the right map installed.
+- **Educational Purposes** Multikill is a project for Educational Purposes.
+- **i don't even know what i'm yapping about**
+
+---
+
 **Multikill** is a mod for **Ultrakill version 0.9.0**, designed to bring full-featured multiplayer functionality to the game, allowing players to engage in **PvP combat** across different maps. This client-side mod is built using **BepInEx** and connects to dedicated **Multikill Servers**.
 
 ## Features
