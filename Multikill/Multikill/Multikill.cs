@@ -10,7 +10,7 @@ using Multikill.Multikill;
 namespace Multikill
 {
     [BepInPlugin("com.apfelteesaft.multikillmod", "MultikillMod", "1.0.0")]
-    public class MultiplayerMod : BaseUnityPlugin, INetEventListener
+    public class Plugin : BaseUnityPlugin, INetEventListener
     {
         private NetManager client;
         private NetPeer serverPeer;

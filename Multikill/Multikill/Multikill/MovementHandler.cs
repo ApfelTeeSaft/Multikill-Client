@@ -6,10 +6,10 @@ namespace Multikill.Multikill
 {
     public class MovementHandler
     {
-        private MultiplayerMod mod;
+        private Plugin mod;
         private NetDataWriter writer;
 
-        public MovementHandler(MultiplayerMod mod)
+        public MovementHandler(Plugin mod)
         {
             this.mod = mod;
             writer = new NetDataWriter();
